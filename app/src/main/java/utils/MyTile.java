@@ -19,7 +19,7 @@ public class MyTile extends View {
 
     private int size = 14;
     protected static int xcount = 0;
-    protected static int ycount;
+    protected static int ycount = 0;
     protected int xoffset;
     protected int yoffset;
 
