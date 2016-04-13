@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Snake</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">贪吃蛇</string>
+    <string name="start">开始游戏</string>
+    <string name="exit">退出游戏</string>
+    <string name="mode_ready">贪吃蛇\n按两次“向上”键开始"</string>
+    <string name="mode_pause">暂停中\n按“向上”键恢复</string>
+    <string name="mode_lose_prefix">游戏结束\n得分: </string>
+    <string name="snake_layout_text_text">LittleSnake</string>
+    <string name="Start">Start</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <utils.SnakeView
+        android:id="@+id/mSnakeView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:longClickable="true" />
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/start"
+        android:textColor="#ff8888ff"
+        android:textSize="24sp"
+        android:visibility="visible" />
+
+</FrameLayout>
