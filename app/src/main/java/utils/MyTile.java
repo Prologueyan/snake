@@ -18,7 +18,7 @@ public class MyTile extends View {
     private static String tag = MyTile.class.getSimpleName();
 
     private int size = 14;
-    protected static int xcount;
+    protected static int xcount = 0;
     protected static int ycount;
     protected int xoffset;
     protected int yoffset;
